@@ -26,7 +26,15 @@ h1 {
   text-align: center;
   text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
-.article1{
+/*article 1 */
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: -10% 5% 10% 5%; 
+}
+/*article 2 */
+.article2{
   width: 450px;
   background: #fff;
   border-radius: 10px;
@@ -34,7 +42,7 @@ h1 {
   display: block;
   margin: auto;
 }
-.article1 header{
+.article2 header{
   display: flex;
   align-items: center;
   padding: 25px 30px 10px;
