@@ -21,12 +21,18 @@ body {
 h1 {
   font-family: 'Quattrocento', serif;
   color: #fff;
-  margin: -30% auto 25% auto;
+  margin: 5% auto 25% auto;
   font-size: 300%;
   text-align: center;
   text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
 /*article 1 */
+.date {
+  width: 50%;
+  height: 5vh;
+  text-align: center;
+  border-radius: 5px;
+}
 form {
   display: flex;
   justify-content: center;
@@ -40,7 +46,7 @@ form {
   border-radius: 10px;
   box-shadow: 0 15px 40px rgba(0,0,0,0.12);
   display: block;
-  margin: auto;
+  margin: 5% auto 10% auto;
 }
 .article2 header{
   display: flex;
